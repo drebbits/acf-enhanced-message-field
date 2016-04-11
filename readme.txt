@@ -42,7 +42,7 @@ __Important note:__ Use this with utmost care.
 Me: Yes.
 
 = You: I have more questions or found an issue =
-Me: Reach out on [WordPress support and discussion forums](https://wordpress.org/support/) or Github [issues](https://github.com/drebbits/acf-enhanced-message/issues)
+Me: Reach out on [WordPress support and discussion forums](https://wordpress.org/support/) or Github [issues](https://github.com/drebbits/acf-enhanced-message-field/issues)
 
 == Changelog ==
 

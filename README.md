@@ -3,11 +3,11 @@ ACF Enhanced Message Field
 
 Adds an enhanced version of the default Message field to accept PHP and certainly no wpauto().
 
-#### Description
+####Description
 
 This field will provide you more options and flexibility on how you would like to present an instruction or message to your client's (or site in general) admin interface.
 
-#### Features
+####Features
 
 * Support PHP.
 * Option to hide label when field is displayed.
@@ -32,10 +32,10 @@ __Important note:__ Use this with utmost care.
 3. Go ahead and activate the plugin in the 'Plugins' admin page in WordPress.
 4. Create a field group and check 'Enhanced Message' (under Layout) that is now available.
 
-####Frequently Asked Questions ==
+####Frequently Asked Questions
 
-__You: Should I include PHP tags?__
+__You: Should I include PHP tags?__ 
 Me: Yes.
 
-__You: I have more questions or found an issue__
-Me: Reach out on [WordPress support and discussion forums](https://wordpress.org/support/) or Github [issues](/issues)
+__You: I have more questions or found an issue__ 
+Me: Reach out on [WordPress support and discussion forums](https://wordpress.org/support/) or Github [issues](https://github.com/drebbits/acf-enhanced-message-field/issues)
