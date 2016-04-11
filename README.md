@@ -34,8 +34,8 @@ __Important note:__ Use this with utmost care.
 
 ####Frequently Asked Questions
 
-__You: Should I include PHP tags?__ 
+__You: Should I include PHP tags?__  
 Me: Yes.
 
-__You: I have more questions or found an issue__ 
+__You: I have more questions or found an issue__  
 Me: Reach out on [WordPress support and discussion forums](https://wordpress.org/support/) or Github [issues](https://github.com/drebbits/acf-enhanced-message-field/issues)
