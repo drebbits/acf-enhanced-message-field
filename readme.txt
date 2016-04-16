@@ -20,7 +20,7 @@ Features:
 Compatible with Advanced Custom Fields:
 
 * 4 (tested up to 4.4.6)
-* 5 (PRO, tested up to 5.2.6)
+* 5 (PRO, tested up to 5.3.7)
 
 
 PS: You need [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/) installed to use this.
@@ -47,7 +47,7 @@ Me: Reach out on [WordPress support and discussion forums](https://wordpress.org
 == Changelog ==
 
 = 1.1.0 =
-* Compatible with ACF 4.4.6 and ACF Pro 5.2.6
+* Compatible with ACF 4.4.6 and ACF Pro 5.3.7
 * Prevent class conflict if this plugin is already added directly in your plugin/theme.
 * __Fix__: Prevent style being printed in json export
 

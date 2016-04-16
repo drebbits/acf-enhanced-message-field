@@ -16,7 +16,7 @@ This field will provide you more options and flexibility on how you would like t
 Compatible with Advanced Custom Fields:
 
 * 4 (tested up to 4.4.6)
-* 5 (PRO, tested up to 5.2.6)
+* 5 (PRO, tested up to 5.3.7)
 
 
 PS: You need [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/) installed to use this.
