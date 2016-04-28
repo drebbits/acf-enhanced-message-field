@@ -128,6 +128,10 @@ if ( ! class_exists('ACF_Field_Enhanced_Message') ) :
 
 		function load_field( $field )
 		{
+			if ( ! is_admin() ) {
+				return $field;
+			}
+
 			$current_screen = get_current_screen();
 
 			if ( null !== $current_screen && 'acf' !== $current_screen->post_type && 'yes' === $field['hide_label'] ) {

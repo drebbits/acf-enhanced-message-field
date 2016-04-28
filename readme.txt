@@ -46,6 +46,9 @@ Me: Reach out on [WordPress support and discussion forums](https://wordpress.org
 
 == Changelog ==
 
+= 1.1.1 =
+* __Fix__: don't process load field outside admin interface
+
 = 1.1.0 =
 * Compatible with ACF 4.4.6 and ACF Pro 5.3.7
 * Prevent class conflict if this plugin is already added directly in your plugin/theme.

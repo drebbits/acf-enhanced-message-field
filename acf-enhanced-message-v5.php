@@ -91,12 +91,16 @@ if ( ! class_exists('ACF_Field_Enhanced_Message') ) :
 		}
 
 		/*
-		*  format_value()
+		*  load_field()
 		*
 		*/
 
 		function load_field( $field )
 		{
+			if ( ! is_admin() ) {
+				return $field;
+			}
+
 			$current_screen = get_current_screen();
 
 			if ( null !== $current_screen && 'acf-field-group' !== $current_screen->post_type && 'yes' === $field['hide_label'] ) {
