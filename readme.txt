@@ -46,6 +46,9 @@ Me: Reach out on [WordPress support and discussion forums](https://wordpress.org
 
 == Changelog ==
 
+= 1.1.2 =
+* __Fix__: Call to undefined function get_current_screen()
+
 = 1.1.1 =
 * __Fix__: don't process load field outside admin interface
 
