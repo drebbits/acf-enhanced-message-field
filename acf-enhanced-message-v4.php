@@ -128,7 +128,7 @@ if ( ! class_exists('ACF_Field_Enhanced_Message') ) :
 
 		function load_field( $field )
 		{
-			if ( ! is_admin() ) {
+			if ( ! is_admin() || ! function_exists( 'get_current_screen' ) ) {
 				return $field;
 			}
 
